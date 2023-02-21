@@ -1,0 +1,780 @@
+Name,Score,ScoreInWord,Review,Discount,Price,Location,LocationScore,Breakfast,BookingAward,BookingScore,Cancelation
+Superior Studio Vacation House by Stay Eilat - Shaldag Street,7.8,Good ,21,2517,2419,Eilat,9.6,0,0,3,1
+La Perle Hotel,7.2,Good ,157,44,2156,"West Jerusalem, Jerusalem",9.4,0,0,0,0
+Lago Suites Hotel,5.9,Review score ,109,0,2992,"West Jerusalem, Jerusalem",9.6,0,0,0,1
+G38 Rental Apartment Building,8.5,Very good ,76,0,2160,Haifa,9.3,0,0,3,0
+Amdar Holiday Apartments,7.7,Good ,715,0,3145,Eilat,9.6,0,1,3,1
+C Tower Apartments,6.2,Review score ,219,310,1760,Netanya,9.6,0,0,3,0
+Nofim Suites,6.3,Review score ,44,0,2556,Tiberias,9.6,0,1,0,0
+Dolphin Apart,5.3,Review score ,54,33,1067,Eilat,9.6,0,0,3,1
+Residence 26,7.8,Good ,3031,2086,2086,Tel Aviv,9.6,0,1,3,0
+5 min to Bat Yam beach 2 rooms flat equipped,7.3,Good ,4,77,2503,Bat Yam,9.6,0,0,3,0
+The Setai Sea Of Galilee,9.1,Superb ,214,1427,8086,En Gev,9.5,1,1,0,1
+Keshet Yehonatan Country Lodging,8.4,Very good ,264,0,333,Keshet,9.6,0,1,0,1
+Merom Golan Resort,8.7,Fabulous ,1376,0,10615,Merom Golan,9.4,0,1,0,0
+Daniel Herzliya Hotel,7.3,Good ,2014,1295,5183,Herzelia ,9.6,0,1,0,1
+Leonardo Hotel Negev,7.4,Good ,831,0,4453,Beer Sheva,9.6,0,1,0,1
+Herbert Samuel Bayit Bagalil Boutique,8.0,Very good ,804,4001,16005,Hatzor haglilit,9.6,1,1,0,1
+Avigail Guest House,9.4,Superb ,213,0,2653,Yavneʼel,9.4,0,1,0,1
+Sadot Hotel Ben Gurion Airport - an Atlas Boutique Hotel,8.3,Very good ,696,0,4104,Assaf Harofeh,9.6,0,1,4,1
+Oasis Spa Club Dead Sea Hotel,7.8,Good ,2643,0,4198,Ein Bokek,9.6,1,1,0,1
+Six Senses Shaharut,9.3,Superb ,347,0,15641,Shaharut,9.5,1,0,0,0
+Michel House,9.3,Superb ,496,1092,3276,Nazareth,9.7,0,1,0,1
+Selina Tzukim - Soft opening,8.9,Fabulous ,63,239,1358,Zuqim,9.4,0,1,3,0
+Selina Desert Garden Ramon,8.5,Very good ,571,566,3209,Mitzpe Ramon,9.6,0,1,0,0
+Mantur Metula by Selina,8.1,Very good ,472,158,891,Metulla,9.6,0,1,0,0
+Mantur Parod by Selina,8.2,Very good ,298,104,590,Parod,9.6,0,1,0,0
+Kedma by Isrotel Design,8.3,Very good ,1224,0,7549,Sede Boqer,9.6,1,0,4,0
+Tal Shahar Zimmers,8.4,Very good ,157,0,5444,Tal Shaẖar,9.6,0,1,3,2
+Hotel Anilevich Mansion,7.8,Good ,401,0,3590,Beer Sheva,9.6,0,1,0,0
+Leonardo Boutique Rehovot,8.7,Fabulous ,271,0,5470,Rechovot,9.6,1,1,0,1
+Herbert Samuel Okeanos Suites Herzilya,7.7,Good ,1502,0,5114,Herzelia ,9.6,1,1,0,1
+Kedem Hotel,8.2,Very good ,1627,0,4578,Tirat Karmel,9.6,1,0,0,0
+Desert Routes Inn Shvilim ba Midbar,8.7,Fabulous ,386,0,5605,H̱aẕeva,9.6,0,0,0,0
+Haifa Tower Hotel,7.6,Good ,209,1838,1838,Haifa,9.6,0,1,3,0
+Arbel Guest House Shavit Family,9.2,Superb ,445,0,3546,Arbel,9.5,0,1,0,1
+Mantur West Galilee by Selina,8.3,Very good ,134,385,2183,Loẖame HaGetaʼot,9.6,0,1,0,0
+Art House,9.2,Superb ,53,0,3510,Ẕofar,9.6,0,1,0,0
+Leonardo Plaza Ashdod,6.7,Review score ,1125,1008,4033,Ashdod,9.6,1,0,4,1
+Beer Sheva Old City Apartments by Master,9.3,Superb ,59,0,3780,Beer Sheva,9.3,0,1,4,0
+West All Suites Hotel Ashdod,8.3,Very good ,803,0,4167,Ashdod,9.6,0,0,0,1
+YalaRent Magdala Resort- Luxury Suites with Pool or Jacuzzi with Sea View,8.6,Fabulous ,165,1297,3893,Migdal,9.3,0,1,4,0
+Nofey Gonen Holiday Village,8.5,Very good ,660,0,6487,Gonen,9.6,0,0,0,1
+Ramon Inn by Isrotel Collection,8.1,Very good ,1039,0,4533,Mitzpe Ramon,9.6,1,0,0,0
+NYX Herzliya,8.5,Very good ,1419,0,5991,Herzelia ,9.6,0,1,0,1
+Rash Hasita,9.3,Superb ,371,0,2357,H̱aẕeva,9.3,0,0,0,0
+Hi - Yam SeaView Apartments & Suites,8.6,Fabulous ,112,0,3172,Bat Yam,9.6,0,1,4,0
+Nofesh Ne'eman,9.3,Superb ,99,0,3200,Amirim,9.6,0,1,3,1
+Cramim by Isrotel Exclusive,8.8,Fabulous ,1623,0,11282,Qiryat ‘Anavim,9.6,1,0,5,0
+Casa Boutique Hotel,8.9,Fabulous ,273,1075,4300,Nahariyya,9.6,1,1,0,1
+Hacienda Forest View Hotel,8.0,Very good ,883,516,4638,Ma'alot Tarshiha,9.6,1,0,0,0
+Estate Spa - Boutique Hotel,8.9,Fabulous ,878,1176,4702,Rechovot,9.6,0,0,0,1
+Daria- Authentic Israeli Experience,7.6,Good ,889,912,3649,HaOn,9.3,1,1,0,0
+VILLA SERA- boutique hotel in the old city of Acre,9.4,Superb ,30,1730,2595,‘Akko,9.6,0,1,0,0
+Golden Crown Haifa,8.3,Very good ,1620,0,3738,Haifa,9.6,1,1,0,0
+Gomeh by Isrotel Design,8.5,Very good ,1467,0,6328,Tiberias,9.6,1,1,4,0
+The Spot Hostel,8.0,Very good ,2429,0,709,"Tel Aviv Port Area, Tel Aviv",9.6,0,1,0,1
+Mizpe Yam Boutique Hotel,7.7,Good ,1457,0,2045,Netanya,9.6,1,1,0,1
+Lisa's Farm Place,9.5,Exceptional ,13,0,1938,Rishon LeẔiyyon,9.6,0,1,0,2
+Khan Alsira - Amazing Bedouin Hospitality,9.2,Superb ,125,0,1659,Alsira,9.6,1,1,0,1
+"Brown Lighthouse Eilat, a member of Brown Hotels",8.4,Very good ,3442,684,3116,Eilat,9.6,0,1,0,1
+Ein Gedi Camp Lodge,8.4,Very good ,1451,0,513,Ein Gedi,9.6,0,0,0,0
+Beit Ha'Omanim,9.0,Superb ,190,0,4984,Safed,9.3,0,1,4,0
+"Brown BoBo, a member of Brown Hotels",8.2,Very good ,1912,2379,5442,"Tel Aviv City-Centre, Tel Aviv",9.3,0,1,0,1
+Kikar Boutique Hotel,7.3,Good ,742,0,2345,Netanya,9.6,0,1,0,0
+Zohar Badeshe,8.6,Fabulous ,380,0,6728,Dalia,9.6,1,0,0,0
+Abraham Tel Aviv,8.4,Very good ,1848,101,573,"Tel Aviv City-Centre, Tel Aviv",9.6,1,1,0,0
+Mantur Jerusalem Mountains by Selina,8.2,Very good ,471,0,911,Maale Hachamisha,9.6,0,0,0,1
+"Publica Isrotel, Autograph Collection",8.4,Very good ,1595,0,5733,Herzelia ,9.6,0,1,4,1
+Nof Tavor Hotel,8.4,Very good ,831,590,2359,Mizra‘,9.6,0,0,0,1
+Marine Heights Suites,8.5,Very good ,76,1305,3915,Herzelia ,9.5,0,1,4,0
+Negev Camel Ranch,9.1,Superb ,254,0,1890,Dimona,9.3,0,0,0,0
+Erettz Dafna Travel Hotel,8.3,Very good ,747,0,4116,Dafna,9.3,1,0,0,0
+Sea Life Nahariya BY Jacob Hotels,7.8,Good ,652,0,3000,Nahariyya,9.6,1,0,0,1
+Sapir Apartment,7.4,Good ,117,0,3300,Sappir,9.6,0,1,3,2
+Leonardo Plaza Netanya Hotel,7.9,Good ,547,0,5385,Netanya,9.6,1,1,0,1
+Abraham Jerusalem,8.5,Very good ,1573,168,506,"West Jerusalem, Jerusalem",9.3,1,1,0,0
+"Brown Machne Yehuda, a member of Brown Hotels",7.9,Good ,1892,701,3196,"West Jerusalem, Jerusalem",9.4,0,1,0,1
+Numa Hotel Jaffa,9.3,Superb ,1266,0,4263,"Jaffa, Tel Aviv",9.3,0,1,4,1
+YalaRent C Kinneret,9.0,Superb ,40,0,4844,Migdal,9.4,0,1,3,0
+Kfar Maccabiah Hotel & Suites,7.7,Good ,852,0,5192,Ramat Gan,9.6,0,0,4,1
+Even Derech by Smart Hotels,8.7,Fabulous ,1004,0,2910,Mitzpe Ramon,9.6,0,0,0,2
+Herbert Samuel The Reef Eilat,8.7,Fabulous ,1354,1351,5403,Eilat,9.6,1,1,0,1
+Mirabelle Plaza Haifa By Dan Hotels,7.5,Good ,760,0,5778,Haifa,9.6,1,1,0,1
+Herbert Samuel Opera Tel Aviv,8.5,Very good ,359,742,4202,"Tel Aviv City-Centre, Tel Aviv",9.4,0,1,0,1
+DesertB,9.1,Superb ,64,0,4000,Giv'ot Bar,9.6,0,1,0,2
+"Brown Brut, a member of Brown Hotels",8.3,Very good ,1227,1539,2051,"Neve Tzedek, Tel Aviv",9.6,0,1,0,1
+Tamara Ashkelon,7.3,Good ,1001,1432,4295,Ashkelon,9.6,1,0,0,0
+Mensa Christi Guesthouse,8.1,Very good ,130,0,2880,Nazareth,9.6,0,1,0,2
+Badolina Ein Gedi Glamping,8.4,Very good ,777,0,413,Ein Gedi,9.6,0,0,0,1
+Jerusalem Gold Hotel,8.0,Very good ,680,0,5628,"West Jerusalem, Jerusalem",9.6,0,1,4,1
+Love Frequency - יורט קסום במתת,9.8,Exceptional ,5,0,4100,Mattat,10.0,0,0,0,2
+The Post Hostel Jerusalem,8.3,Very good ,1904,0,915,"West Jerusalem, Jerusalem",9.6,0,1,0,1
+Daher Guest House Nazareth,8.1,Very good ,121,0,2112,Nazareth,9.6,1,1,3,1
+Zimmerbus,9.6,Exceptional ,25,0,3385,‘Ezuz,9.5,0,0,3,1
+Eden Hotel,7.3,Good ,1040,0,1868,Haifa,9.6,0,1,0,0
+Regina Goren Hotel,6.9,Review score ,546,0,2173,Ashkelon,9.6,0,0,0,1
+The American Colony Hotel - Small Luxury Hotels of the World,8.9,Fabulous ,1052,0,9329,"East Jerusalem, Jerusalem",9.6,0,1,5,2
+Vitrage Guest House,8.7,Fabulous ,104,0,1800,Nazareth,9.6,1,1,3,2
+Satori Hotel,7.4,Good ,911,0,1709,Haifa,9.6,0,1,0,1
+Hadass Desert Inn,8.6,Fabulous ,327,0,2100,Dimona,9.6,0,0,0,1
+Jungle Jaffa Hostel Age 18 to 45,8.2,Very good ,647,0,592,"Jaffa, Tel Aviv",9.6,2,1,0,0
+"Bar-On Vacation Resort - Nature, Culture, Tours & Tastes near Nahariyya",9.5,Exceptional ,95,0,3674,Ben ‘Ammi,9.5,0,1,0,0
+Zimmer In Yuvalim,9.0,Superb ,56,0,3240,Yuvallim,9.3,0,1,0,2
+Herbert Samuel Royal Shangri-La Eilat,8.0,Very good ,495,2563,14522,Eilat,9.6,1,1,0,1
+Jaffa Garden - Yefet 1 Boutique,7.0,Good ,900,0,2330,"Jaffa, Tel Aviv",9.6,0,1,0,0
+Jerusalem Apartments (In Bat Yam) by Pay Box,7.3,Good ,19,0,1200,Bat Yam,9.6,0,1,3,2
+Keshet Eilon - Suites and Villas,9.1,Superb ,113,0,12306,Elon,9.5,0,1,4,0
+EIlon Hostel B&B,8.7,Fabulous ,173,0,1800,Elon,9.4,0,0,3,2
+Embassy Hotel Tel Aviv,8.5,Very good ,2196,0,3544,"Tel Aviv City-Centre, Tel Aviv",9.3,0,1,0,1
+The Haneviim Court - Isrentals,7.8,Good ,678,0,8968,"West Jerusalem, Jerusalem",9.4,0,1,3,0
+Spa Village at Hamat Gader - adults only,8.7,Fabulous ,789,0,9915,Hamat Gader,9.6,1,0,0,1
+BY14 TLV Hotel,8.4,Very good ,1465,846,3386,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,1
+"Brown Beach House Tel-Aviv, a member of Brown Hotels",8.2,Very good ,1213,0,7702,"Tel Aviv City-Centre, Tel Aviv",9.3,0,1,0,0
+אירוח כפר יובל,8.2,Very good ,122,0,3384,Yuval,9.6,0,1,0,0
+Piazza Del Sol,9.7,Exceptional ,76,0,10540,Had Nes,9.5,0,1,0,0
+Almog Beach International,8.1,Very good ,18,0,2095,Haifa,9.6,0,1,5,0
+Unique Hotel Ashdod,8.6,Fabulous ,133,242,2183,Ashdod,9.6,0,0,0,1
+Ramada Olivie Nazareth,8.8,Fabulous ,696,0,3727,Nazareth,9.6,0,0,0,0
+YalaRent Bazelet Apartments,9.1,Superb ,187,498,1492,Tiberias,9.6,0,1,3,0
+עכו דירה חדשה ליד הים- Akko-brand new apartment,9.8,Exceptional ,26,0,4200,‘Akko,10.0,0,1,4,2
+"Crowne Plaza Tel Aviv Beach, an IHG Hotel",8.0,Very good ,2175,0,5274,"Tel Aviv City-Centre, Tel Aviv",9.3,0,1,0,0
+Carmel Market Apartments by Master,9.3,Superb ,289,1144,7656,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,4,0
+Nof kinnert,8.9,Fabulous ,173,0,5195,Moshav Ramot,9.4,0,1,0,0
+Prima Tel Aviv Hotel,8.6,Fabulous ,1092,0,4799,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,4,1
+City Center Jerusalem,8.2,Very good ,1002,0,3240,"West Jerusalem, Jerusalem",9.4,0,1,0,1
+Travel Hotel Eilon,8.4,Very good ,297,0,3103,Elon,9.6,1,0,0,1
+Agripas Boutique Hotel,7.3,Good ,1648,0,2800,"West Jerusalem, Jerusalem",9.6,0,1,0,0
+1926 Designed ApartHotel,8.5,Very good ,618,0,2177,Haifa,9.4,0,1,0,2
+The Inbal Jerusalem,8.4,Very good ,1505,0,37333,"West Jerusalem, Jerusalem",9.6,0,1,5,1
+The Setai Tel Aviv,9.0,Superb ,1211,0,12372,"Jaffa, Tel Aviv",9.3,0,1,0,1
+The Edge Of The Village - Shefer,8.6,Fabulous ,115,0,4500,Shefer,9.5,0,0,0,0
+Mor's Place,7.0,Good ,83,0,2394,Beer Sheva,9.6,0,1,3,0
+Aviv - Bakfar in Amirim,9.3,Superb ,120,0,3180,Amirim,9.7,0,0,0,0
+Vert Lagoon Netanya,8.2,Very good ,3112,0,6154,Netanya,9.6,1,0,0,0
+Mr. Agrippa - By TLV2GO,8.5,Very good ,255,0,3575,"West Jerusalem, Jerusalem",9.6,0,1,3,0
+"Brown Golden House, a member of Brown Hotels",9.0,Superb ,963,734,3343,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,1
+JERU CAPS HOTEL,8.5,Very good ,878,71,937,"West Jerusalem, Jerusalem",9.4,0,1,0,1
+Ohn-Bar Guesthouse,8.6,Fabulous ,353,0,4100,Amirim,9.3,0,0,4,1
+Galei Kinneret Hotel,8.9,Fabulous ,648,0,15214,Tiberias,9.3,0,0,0,1
+Brown Seaside a member of Brown Hotels,8.1,Very good ,631,593,2698,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,1
+C Hotel Neve Ilan,7.5,Good ,378,0,4308,Neve Ilan,9.6,1,0,0,1
+Dan Panorama Tel Aviv Hotel,8.2,Very good ,48,0,5197,"Neve Tzedek, Tel Aviv",9.3,0,0,0,1
+Quiet place,8.5,Very good ,117,0,1800,Beʼer Ora,9.6,0,0,3,2
+Royal Garden by Isrotel Collection,8.6,Fabulous ,465,0,6108,Eilat,9.6,0,0,5,0
+Nof Kineret Suites,9.0,Superb ,158,0,5195,Moshav Ramot,9.6,0,0,0,0
+Star Guest- House,6.4,Review score ,145,0,2400,Or Yehuda,9.6,0,0,3,0
+Liora's Paradise,9.9,Exceptional ,91,0,5280,Had Nes,9.8,0,0,0,0
+Chen in Ezuz,8.8,Fabulous ,34,0,2992,‘Ezuz,9.4,0,0,3,0
+יחידת אירוח חדשה ומקסימה בכרמיאל,9.5,Exceptional ,4,0,2600,Karmiel,9.4,0,0,0,2
+Jacob Tiberias by Jacob Hotels,7.2,Good ,542,0,2222,Tiberias,9.6,0,1,0,1
+Star Apartments - Petah Tiqwa,9.1,Superb ,44,0,1900,Petaẖ Tiqwa,9.6,0,0,3,0
+Inbar Hotel,6.9,Review score ,479,0,2906,Arad,9.6,0,1,0,1
+Galilee Bedouin Camplodge,9.3,Superb ,132,0,8460,Tabash,9.6,0,1,0,0
+Bachar House By 7Minds,9.2,Superb ,1505,1695,5085,"Neve Tzedek, Tel Aviv",9.8,0,1,0,1
+Melody Hotel - an Atlas Boutique Hotel,9.0,Superb ,607,0,4215,"Tel Aviv City-Centre, Tel Aviv",9.4,0,1,0,1
+David InterContinental Tel Aviv ,7.8,Good ,891,0,8811,"Neve Tzedek, Tel Aviv",9.6,0,1,0,1
+Ramon Suites by Smart Hotels,7.8,Good ,1053,0,5378,Mitzpe Ramon,9.6,1,0,0,1
+Ein Harod Ichud Kibbutz Country Lodging,8.4,Very good ,228,1487,4977,‘En H̱arod,9.6,0,0,0,0
+Dizengoff Inn Apartments,8.3,Very good ,482,0,2310,"Tel Aviv City-Centre, Tel Aviv",9.4,0,1,3,0
+"Lovely Sea Front luxury 1 bed room + Balcony, pool, gym",10.0,Exceptional ,1,0,4200,Herzliyya B,10.0,0,0,0,2
+Ramada by Wyndham Ramat Gan,7.3,Good ,675,0,3091,Ramat Gan,9.6,0,0,0,0
+Castel Ashkelon,8.9,Fabulous ,91,0,1680,Ashkelon,9.6,0,0,3,1
+Ramat Rachel Resort,8.6,Fabulous ,1089,159,3029,"West Jerusalem, Jerusalem",9.6,0,1,0,1
+Ahuzat Shaul - Studio,8.0,Very good ,139,0,2484,H̱adera,9.6,0,1,0,0
+Out of Africa Resort,9.0,Superb ,151,0,5781,Had Nes,9.3,0,1,0,0
+Nes Ammim Hotel,7.6,Good ,314,0,4743,Nes Ammim,9.6,0,0,0,0
+Cinema Hotel - an Atlas Boutique Hotel,8.8,Fabulous ,1074,0,3652,"Tel Aviv City-Centre, Tel Aviv",9.7,0,1,0,1
+Play Midtown Hotel Tel Aviv,8.7,Fabulous ,849,0,3675,"Tel Aviv City-Centre, Tel Aviv",9.6,1,1,0,1
+Etzel Tami Hospitality,8.9,Fabulous ,57,684,3076,Neot Golan,9.6,0,1,3,0
+Switzerland In Amirim,9.4,Superb ,117,0,2784,Amirim,9.7,0,0,0,1
+אחוזה במטולה,8.7,Fabulous ,80,359,3229,Metulla,9.3,0,1,3,1
+The Promenade Art - By TLV2GO,7.7,Good ,54,0,5213,"Tel Aviv City-Centre, Tel Aviv",9.4,0,1,3,0
+Cucu Hotel By 7Minds,9.0,Superb ,993,1972,5917,"Tel Aviv City-Centre, Tel Aviv",9.7,0,1,0,1
+Dan Caesarea Resort,8.9,Fabulous ,378,0,7610,Caesarea,9.6,1,0,5,1
+Smadar-Inn,9.4,Superb ,147,0,5780,Zikhron Ya‘aqov,9.9,1,0,4,0
+Selina Tel Aviv Beach,8.4,Very good ,849,283,1133,"Neve Tzedek, Tel Aviv",9.5,0,1,0,0
+Family Vila,9.1,Superb ,35,0,13679,Safed,9.6,0,1,4,0
+Artist Hotel - an Atlas Boutique Hotel,9.0,Superb ,1204,0,8403,"Tel Aviv City-Centre, Tel Aviv",9.4,0,1,0,1
+Prima Millennium,8.2,Very good ,614,0,3934,Ra‘ananna,9.6,0,0,4,1
+Harmony Inn,8.4,Very good ,368,0,4050,Safed,9.6,0,1,3,0
+Blue Sea Marble,7.4,Good ,602,0,3086,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,1
+Hotel Nordoy By 7Minds,8.7,Fabulous ,1329,4929,14789,"Neve Tzedek, Tel Aviv",9.5,1,1,0,1
+Leonardo Club Tiberias - All Inclusive,6.9,Review score ,1256,0,7350,Tiberias,9.6,3,1,0,1
+Vitals On the Mountain in Katzir,9.4,Superb ,32,0,3300,Katzir ,9.4,0,1,3,2
+The Herbert Tel Aviv,8.5,Very good ,568,0,4782,"Tel Aviv City-Centre, Tel Aviv",9.5,1,1,0,1
+Brown TLV Urban Hotel a member of Brown Hotels,8.1,Very good ,346,1006,4584,"Neve Tzedek, Tel Aviv",9.3,0,1,0,1
+Savoy Sea Side Hotel,8.4,Very good ,1081,1047,4190,"Tel Aviv City-Centre, Tel Aviv",9.5,0,1,0,1
+Hotel Saul,9.3,Superb ,1074,1460,5839,"Tel Aviv City-Centre, Tel Aviv",9.7,0,1,0,1
+Florentin House,9.0,Superb ,1544,663,2649,"Florentin, Tel Aviv",9.4,0,1,0,1
+House of Palm - One of a Kind,8.3,Very good ,352,0,4389,"Tel Aviv City-Centre, Tel Aviv",9.7,0,1,4,0
+Market House - An Atlas Boutique Hotel,9.0,Superb ,703,0,5509,"Jaffa, Tel Aviv",9.8,0,1,4,1
+Kibbutz Malkiya Travel Hotel,8.0,Very good ,289,3304,3303,Malkiyya,9.6,1,0,0,0
+David Tower Hotel Netanya by Prima Hotels,8.7,Fabulous ,775,0,5009,Netanya,9.3,0,0,0,1
+AirTLV - Rambam Residence,9.0,Superb ,60,894,3579,"Tel Aviv City-Centre, Tel Aviv",9.3,0,1,4,0
+Ruth Safed By Dan Hotels,8.3,Very good ,917,0,4632,Safed,9.6,1,0,0,1
+Mantur Almog by Selina,6.9,Review score ,84,531,3013,Almog,9.6,0,1,3,0
+Nest House Haifa,8.3,Very good ,282,29,551,Haifa,9.3,0,1,0,2
+Alberto by Isrotel Design,8.5,Very good ,370,0,4530,"Neve Tzedek, Tel Aviv",9.7,0,1,4,1
+Akko Gate Hostel,7.6,Good ,160,0,1880,‘Akko,9.4,0,0,0,1
+Desert Shade camp חוות צל מדבר,8.3,Very good ,126,0,4854,Mitzpe Ramon,9.5,1,0,0,0
+Rich Boutique Hotel,6.2,Review score ,2209,0,1450,Eilat,9.6,1,0,0,2
+The David Citadel Jerusalem,8.2,Very good ,574,1476,13284,"West Jerusalem, Jerusalem",9.6,1,0,5,1
+Ann’s place,7.5,Good ,116,0,2094,Beer Sheva,9.6,0,0,3,0
+Sea View Deluxe,7.4,Good ,13,0,2500,Bat Yam,9.6,0,0,3,0
+"Dave Levinsky, a member of Brown Hotels",8.2,Very good ,351,866,3942,"Neve Tzedek, Tel Aviv",9.6,0,0,0,1
+Leonardo City Tower Hotel Tel Aviv,7.5,Good ,1308,0,3660,Tel Aviv,9.6,0,0,0,1
+Entire apartment Comfy,9.2,Superb ,53,0,3474,Haifa,9.6,0,0,3,2
+Zohara by the beach,8.8,Fabulous ,97,0,2954,Caesarea,9.6,0,0,3,2
+Silent Arrow,8.2,Very good ,538,0,2100,Mitzpe Ramon,9.6,0,0,0,0
+The Blue House,8.3,Very good ,255,0,2980,"West Jerusalem, Jerusalem",9.4,0,0,3,1
+Serenity in the Mountains,8.3,Very good ,79,0,2438,Yirʼon,9.6,0,0,3,0
+Villa Brown Moshava - a member of Brown Hotels,8.7,Fabulous ,892,799,3637,"West Jerusalem, Jerusalem",9.4,0,0,0,1
+פרטיות וחוויה אצל יעקב וירדנה Privacy and an experience at Jacob and Yardena,7.9,Good ,53,0,1560,‘Afula,9.6,0,0,0,2
+Shahal Apartments,8.0,Very good ,70,0,1581,Beer Sheva,9.6,0,0,3,0
+ערי החוף,10.0,Exceptional ,3,0,4860,Rishon LeẔiyyon,10.0,0,0,0,2
+Stella Maris Hosting,8.5,Very good ,37,0,1260,Haifa,9.6,0,0,3,0
+Spice Quarter Inn,8.2,Very good ,763,0,698,Mitzpe Ramon,9.6,0,0,0,0
+Beit Shalom Historical boutique Hotel,8.6,Fabulous ,183,0,5470,Metulla,9.3,1,1,0,0
+Orient by Isrotel Exclusive,8.7,Fabulous ,2630,0,9282,"West Jerusalem, Jerusalem",9.6,0,0,5,1
+Mr. Soof - By TLV2GO,9.1,Superb ,922,0,2477,Eilat,9.6,0,1,3,0
+Sam&Blondi By 7Minds,8.8,Fabulous ,1668,3510,10532,"Tel Aviv City-Centre, Tel Aviv",9.6,1,1,0,1
+HAYARKON-ALLENBY classic style Apartments by the sea by HOMY,8.5,Very good ,239,0,6300,"Tel Aviv City-Centre, Tel Aviv",9.3,0,1,4,2
+Logos hotel in Yad Hashmona,8.9,Fabulous ,371,0,4791,Yad Hashmona,9.4,1,0,0,0
+Haifa Bay View Hotel,8.0,Very good ,1457,0,2852,Haifa,9.6,0,0,0,0
+Vered Hagalil Holiday Village Hotel,8.6,Fabulous ,324,0,4554,Chorazim,9.4,1,0,0,0
+valentine House,8.7,Fabulous ,37,0,1800,Deir Ḥannā,9.6,0,1,3,0
+Spat Beach,6.7,Review score ,359,0,2750,Bat Yam,9.6,0,0,0,2
+"The Jaffa, a Luxury Collection Hotel, Tel Aviv",8.5,Very good ,208,0,12117,"Jaffa, Tel Aviv",9.6,0,1,5,1
+Hemdatya Stone Suites In The Galilee,9.8,Exceptional ,5,0,7488,Ilaniya,10.0,0,1,4,0
+The Efendi Hotel Akko,9.3,Superb ,224,0,12566,‘Akko,9.6,1,0,0,0
+Pixel - an Autonomous Hotel by Loginn,7.9,Good ,251,0,2821,"Tel Aviv City-Centre, Tel Aviv",9.5,0,1,0,1
+Shirat Hayam Boutique Hotel,7.5,Good ,353,0,2821,Tiberias,9.6,0,1,0,0
+צימרון,9.8,Exceptional ,5,0,2133,Yif‘at,9.5,0,0,3,2
+Touchwood,8.3,Very good ,107,0,4446,Livnim,9.6,0,1,0,0
+Azzahra Hotel,9.2,Superb ,135,0,2463,"East Jerusalem, Jerusalem",9.6,1,1,0,0
+Amirey Hagalil Boutique Hotel,9.1,Superb ,249,430,8180,Amirim,9.5,2,0,0,0
+Pearl by the Sea,6.6,Review score ,14,0,1590,Ashkelon,9.6,0,0,0,2
+Hotel 75 by Prima Hotels,8.6,Fabulous ,911,0,3778,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,1
+"Brown Lighthouse Tel Aviv, a member of Brown Hotels",8.3,Very good ,4143,2107,2564,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,1
+The Norman Tel Aviv,9.1,Superb ,250,0,30872,"Tel Aviv City-Centre, Tel Aviv",9.6,1,1,5,0
+Chalet The Mountain To The Sea,7.9,Good ,30,0,6669,Beẕet,9.6,0,1,0,0
+ארוח כפרי בקיבוץ נחשון,9.4,Superb ,39,0,3013,Kibbutz Nachshon,9.5,0,0,3,2
+Leonardo Beach Tel Aviv,6.7,Review score ,415,131,2489,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,1
+Herbert Samuel Milos Dead Sea,8.0,Very good ,1914,0,7743,Ein Bokek,9.6,1,0,0,1
+Ben Gurion Apartment,9.7,Exceptional ,8,0,8100,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,4,0
+Rena's House,8.8,Fabulous ,1381,0,3096,"Neve Tzedek, Tel Aviv",9.3,0,0,3,1
+Prima Link Hotel,9.2,Superb ,519,0,5393,Petaẖ Tiqwa,9.6,0,0,4,1
+אחוזת המרכז,8.6,Fabulous ,41,0,2688,"West Jerusalem, Jerusalem",9.6,0,0,3,2
+HolySuite Even Israel,7.3,Good ,210,0,2700,"West Jerusalem, Jerusalem",9.6,0,0,3,1
+נופש מול נוף החולה,8.8,Fabulous ,26,0,3600,Ramot Naftali,9.6,0,0,0,0
+Central Hotel,5.8,Review score ,715,0,1897,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,2
+"Crowne Plaza Tel Aviv City Center, an IHG Hotel",8.6,Fabulous ,2085,0,5320,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,5,0
+Jerusalem Gate Hotel,7.0,Good ,741,0,3249,"West Jerusalem, Jerusalem",9.6,0,0,0,1
+Dan Carmel Haifa,8.1,Very good ,843,0,5273,Haifa,9.6,0,0,5,1
+Port Tower by Isrotel Design,8.5,Very good ,1092,0,4144,"Tel Aviv Port Area, Tel Aviv",9.6,0,1,4,1
+Elimelech Bapardes,9.3,Superb ,144,0,5127,Sheʼar Yashuv,9.8,0,0,0,0
+Palm Hostel,6.9,Review score ,380,0,420,"East Jerusalem, Jerusalem",9.3,0,0,0,1
+סויטה בלב המדבר.,8.9,Fabulous ,63,0,2200,Beʼer Ora,9.6,0,0,3,2
+Kurlender Guest House,8.4,Very good ,250,0,4400,Sheʼar Yashuv,9.3,0,0,0,0
+Rich Luxury Suites,5.1,Review score ,1794,0,1130,Eilat,9.6,0,0,0,2
+Eyal Hotel by Smart Hotels,8.0,Very good ,738,0,4932,"West Jerusalem, Jerusalem",9.4,1,0,0,2
+Layla Glamping,10.0,Exceptional ,1,919,3461,Nir Dawid,10.0,0,0,0,1
+Via Maria Boutique Suites In The Middle Of The city,9.1,Superb ,135,0,4200,Haifa,9.6,0,0,4,2
+מדבריות השחר,8.7,Fabulous ,19,0,1990,Dimona,9.6,0,0,3,2
+Panorama Golan נוף הגולן Дом в Галилее,8.1,Very good ,93,0,3110,Safed,9.6,0,0,3,0
+Jaffa Gate Hostel,8.3,Very good ,175,0,1989,"Jerusalem Old City, Jerusalem",9.8,0,0,0,0
+Astral Village Hotel,7.8,Good ,883,0,3516,Eilat,9.6,1,0,0,1
+Ink Hotel,9.4,Superb ,498,0,6375,"Tel Aviv City-Centre, Tel Aviv",9.4,0,0,4,1
+Shwartzimmer,9.3,Superb ,173,0,4370,Rosh Pinna,9.4,0,0,0,2
+Jerusalem Tower Hotel,6.7,Review score ,175,0,2385,"West Jerusalem, Jerusalem",9.6,1,0,3,1
+Gross Nofesh and Spa Guesthouse,9.1,Superb ,117,0,3200,Bet Hillel,9.7,0,0,3,0
+Carmel Boutique Apartments,9.3,Superb ,274,0,2520,Haifa,9.3,0,1,4,0
+Agama,8.2,Very good ,173,0,4446,Livnim,9.6,0,1,0,0
+Tzlil Monfort,8.0,Very good ,57,0,7800,Goren,9.6,0,1,3,0
+DEM Hotel,7.6,Good ,568,749,2995,"West Jerusalem, Jerusalem",9.3,0,1,0,0
+Damson - Machne Yehuda Hotel,8.5,Very good ,501,883,5002,"West Jerusalem, Jerusalem",9.4,0,1,0,1
+Yalarent Malina motel in Tiberias,9.0,Superb ,94,688,2066,Tiberias,9.4,0,1,0,0
+LevonTLV,7.5,Good ,271,0,2016,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,3,0
+Jo Shtibel Tel-Aviv,7.9,Good ,668,187,3571,Tel Aviv,9.6,0,1,0,1
+Renaissance Estate,9.3,Superb ,57,0,9000,Rosh Pinna,9.3,0,1,0,0
+Europa 1917,8.1,Very good ,571,0,4485,Tiberias,9.6,1,1,0,1
+Arthur Hotel - an Atlas Boutique Hotel,8.8,Fabulous ,601,0,4103,"West Jerusalem, Jerusalem",9.6,0,1,0,1
+Hilton Tel Aviv Hotel,7.6,Good ,466,0,12205,"Tel Aviv City-Centre, Tel Aviv",9.6,1,0,0,1
+Rene,9.6,Exceptional ,74,0,3715,Lahavot HaBashan,9.6,0,0,3,0
+Villa Nazareth B&B,8.9,Fabulous ,245,693,1780,Nazareth,9.6,0,0,0,0
+"Villa Brown Jerusalem, a member of Brown Hotels",8.3,Very good ,847,1559,7105,"West Jerusalem, Jerusalem",9.6,1,0,0,1
+Mr. Ben Yehuda - By TLV2GO,8.2,Very good ,104,0,4433,"The Old North, Tel Aviv",9.4,0,1,4,0
+Royal Beach Hotel Tel Aviv by Isrotel Exclusive,8.0,Very good ,2760,0,9641,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,5,1
+Haifa Hostel,8.4,Very good ,469,39,730,Haifa,9.3,0,0,0,1
+Green mountains - הרים ירוקים,8.2,Very good ,36,410,3694,Dishon,9.6,0,1,3,0
+The Muse Boutique Hotel Tel Aviv,8.7,Fabulous ,691,0,4000,"Tel Aviv City-Centre, Tel Aviv",9.6,1,1,0,1
+36 Geula - By Beach Apartments TLV,7.7,Good ,152,0,1900,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,3,0
+U Splash Resort Eilat,8.8,Fabulous ,303,0,5800,Eilat,9.6,3,1,0,1
+Mike's House Jerusalem,9.1,Superb ,240,0,5210,"West Jerusalem, Jerusalem",9.6,0,1,3,0
+Vital Hotel - Business Boutique Hotel,8.5,Very good ,403,1100,4402,"Tel Aviv City-Centre, Tel Aviv",9.6,1,1,4,1
+Club Hotel Tiberias - Suites Hotel,7.4,Good ,1005,165,2579,Tiberias,9.6,0,0,0,0
+Sea U Jerusalem Mahane Yehuda Apartment Hotel,8.8,Fabulous ,165,0,5853,"West Jerusalem, Jerusalem",9.4,0,1,4,0
+180 Boutique Hostel,7.9,Good ,745,173,693,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,1
+NYX Tel Aviv,7.9,Good ,994,0,3520,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,1
+Dream Time,8.9,Fabulous ,74,880,3520,Amirim,9.4,0,1,0,0
+YalaRent Boutique Apartments in Jaffa's Flea Market,9.4,Superb ,191,1238,3714,"Jaffa, Tel Aviv",9.7,0,1,4,0
+ALMA City Center Classical Apartments by HOMY,8.4,Very good ,145,0,3240,"West Jerusalem, Jerusalem",9.6,0,1,3,2
+Leonardo Royal Resort Eilat,8.6,Fabulous ,470,0,4380,Eilat,9.6,1,1,0,1
+INTA Hotel,8.8,Fabulous ,526,1812,5433,"Jaffa, Tel Aviv",9.6,0,1,0,1
+تاج عكا Taj Akko,9.4,Superb ,143,0,3240,‘Akko,9.6,0,0,0,1
+Silicate - an Autonomous Hotel by Loginn,7.0,Good ,441,0,2223,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,1
+Hotel Rothschild 22,8.6,Fabulous ,2399,0,5820,"Neve Tzedek, Tel Aviv",9.6,0,0,0,1
+Morad Haharbel - Boutique Resort,9.1,Superb ,108,1001,4004,Arbel,9.3,0,1,4,0
+SHIR HACHORESh,10.0,Exceptional ,2,0,4320,Shomera,10.0,0,0,0,0
+Amigo Hotel On The Beach,8.7,Fabulous ,345,0,1620,Nahariyya,9.5,0,0,0,0
+Zion Hotel,6.6,Review score ,893,335,1895,"West Jerusalem, Jerusalem",9.6,0,0,0,0
+Adilion,9.7,Exceptional ,132,0,10400,Kahal,9.5,0,0,0,0
+The Way Inn - Boutique Suites,9.2,Superb ,241,0,5080,Safed,9.6,0,1,0,0
+The Seasons Hotel -Studio & Suite,7.0,Good ,536,0,3915,Netanya,9.6,1,0,0,1
+Marina's Home By The Sea,9.2,Superb ,5,0,3600,Bat Yam,9.5,0,0,3,0
+כפר הנופש חוף דוגה על שפת הכנרת,9.0,Superb ,29,0,3700,Kinar,9.6,0,0,0,0
+Hassan Guesthouse,9.4,Superb ,93,360,1440,Nazareth,9.7,0,0,3,0
+Hadar Bakfar,8.9,Fabulous ,169,0,3110,Yesod Hamaala,9.4,0,1,0,0
+ISLA Tel Aviv,9.0,Superb ,333,358,1071,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,0
+U Coral Beach Club Eilat – Ultra All inclusive,9.3,Superb ,460,0,7400,Eilat,9.6,3,1,0,1
+Eastside Suites,8.8,Fabulous ,63,0,3300,Majdal Shams,9.6,0,0,0,1
+Mol Hahr,8.2,Very good ,357,0,2426,Safed,9.6,0,0,0,0
+Mory's Place - Luxurious Holiday Apartment,9.8,Exceptional ,10,0,2853,Arad,9.6,0,0,3,2
+צימר בגליל אביב בבקתה,9.5,Exceptional ,25,0,5940,Galilee,9.3,0,1,0,2
+Asbn Magic Garden,9.1,Superb ,126,0,4800,‘Akko,9.6,0,0,0,1
+Workation experience in beautiful village,9.0,Superb ,5,0,3300,Ramat Ẕevi,9.6,0,0,3,2
+Kinar Galilee,8.1,Very good ,211,0,4492,Kinar,9.6,1,0,0,1
+Blue Sea Suite,10.0,Exceptional ,1,389,3499,Ashkelon,10.0,0,0,0,2
+Apartment Haifa,8.5,Very good ,11,0,3000,Haifa,9.6,0,0,3,0
+Pearl island suite,10.0,Exceptional ,1,255,2295,Ashkelon,10.0,0,0,0,1
+Tish Hotel,7.8,Good ,88,0,2484,"West Jerusalem, Jerusalem",9.4,0,0,0,2
+HolySuite J Tower,6.3,Review score ,336,0,3000,"West Jerusalem, Jerusalem",9.6,0,0,3,1
+1000Nights Sea-Hut Apartments,8.6,Fabulous ,42,0,2780,"Tel Aviv City-Centre, Tel Aviv",9.3,0,0,3,0
+Lapin Luxury Apartment By Nimi Group,8.5,Very good ,17,0,7632,"Neve Tzedek, Tel Aviv",9.6,0,0,4,0
+wooden Edge Of The Village,9.3,Superb ,77,0,5137,Ma'ale Gamla,9.5,0,0,0,0
+King George 21 Apartments,6.7,Review score ,6,2405,2404,"West Jerusalem, Jerusalem",9.6,0,0,3,2
+The Pearl of the Golan - Pnina BaGolan,8.8,Fabulous ,190,0,6845,Had Nes,9.6,0,1,0,0
+Miami Beach Hotel Tel Aviv,8.2,Very good ,1021,0,3825,"Tel Aviv City-Centre, Tel Aviv",9.5,0,1,0,0
+Center Chic Hotel - an Atlas Boutique Hotel,8.8,Fabulous ,766,0,3743,"Tel Aviv City-Centre, Tel Aviv",9.8,0,1,0,1
+Eden's Boutique,8.1,Very good ,114,0,5570,Had Nes,9.6,0,1,0,0
+Ruby,9.1,Superb ,841,0,4754,"Neve Tzedek, Tel Aviv",9.7,0,1,0,2
+Assemblage Boutique,8.8,Fabulous ,450,0,3559,"Tel Aviv City-Centre, Tel Aviv",9.5,1,1,0,2
+Tzefania Hotel,8.6,Fabulous ,271,0,2663,"West Jerusalem, Jerusalem",9.6,0,1,0,0
+Custo Club,7.9,Good ,587,0,1183,Eilat,9.6,0,1,0,0
+הים פוגש את ההר- בית בלב הגליל Sea & Mount,9.4,Superb ,76,0,3780,Adamit,9.3,0,1,3,0
+Abraham Eilat,8.7,Fabulous ,955,248,578,Eilat,9.6,0,1,0,1
+White Villa Tel Aviv Hotel,8.8,Fabulous ,207,1729,6916,"Tel Aviv City-Centre, Tel Aviv",9.6,1,1,0,1
+Tur Sinai Organic Farm Resort,8.6,Fabulous ,42,0,5728,"West Jerusalem, Jerusalem",9.6,1,1,3,0
+U Boutique Kinneret by the Sea of Galilee,8.6,Fabulous ,566,0,8547,Tiberias,9.6,1,1,0,1
+Monochrome - an Autonomous Hotel by Loginn,7.2,Good ,373,435,2464,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,1
+A23 Boutique Hotel,8.9,Fabulous ,636,2812,4588,"Tel Aviv City-Centre, Tel Aviv",9.5,0,1,0,1
+Olive The White House,6.4,Review score ,372,767,2301,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,0
+Motel Aviv,7.2,Good ,2209,0,1510,Eilat,9.6,0,1,0,1
+Rich Royal Suites Eilat,5.4,Review score ,1189,0,1140,Eilat,9.6,0,0,0,2
+Ben Hillel Boutique Hotel,7.7,Good ,220,0,2348,"West Jerusalem, Jerusalem",9.4,0,0,0,0
+ROSEHILLS,9.1,Superb ,16,0,2700,Kefar Weradim,9.7,0,0,3,2
+Bat Yam on The Beach,8.2,Very good ,39,0,2625,Bat Yam,9.6,0,0,3,0
+Leonardo sea view residence,7.2,Good ,12,0,2854,Bat Yam,9.6,0,0,0,0
+Dan Accadia Herzliya Hotel,7.7,Good ,369,0,6530,Herzelia ,9.6,0,0,5,1
+The Scots Hotel,9.1,Superb ,839,0,9162,Tiberias,9.6,2,0,0,1
+The House By The Mulberry Tree,9.3,Superb ,85,0,3000,Neve Ilan,9.6,1,0,3,2
+YalaRent Migdalor Boutique Apartments with Sea Views,9.2,Superb ,282,831,2491,Tiberias,9.5,0,0,4,0
+Marina area Central location,8.5,Very good ,13,0,4842,Ashdod,9.6,0,0,4,0
+HI - Eilat Hostel,8.5,Very good ,571,0,1955,Eilat,9.6,0,0,0,1
+Carmel Beach House by Berry Stays,8.6,Fabulous ,60,0,2672,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,4,0
+Villa Bougainvillea,9.6,Exceptional ,5,0,22800,Ashalim,9.5,0,1,4,2
+Master hosting Gal,9.4,Superb ,57,0,3504,Bet Sheʼan,9.3,0,1,3,1
+Lake Mansion,8.9,Fabulous ,141,0,4400,Tiberias,9.6,0,1,3,0
+Achziv Sea & Sun,7.9,Good ,27,0,4203,Gesher HaZiw,9.6,0,1,3,0
+מרכז הגליל,8.1,Very good ,43,0,2295,Naḥf,9.6,0,1,3,2
+Harav Kuk Luxury Apartment By Nimi Group,8.0,Very good ,20,0,5200,"West Jerusalem, Jerusalem",9.6,0,0,4,0
+בחצר של טובה,9.3,Superb ,62,0,7200,H̱azon,9.5,0,0,4,0
+City Apartments,7.7,Good ,596,0,1395,Eilat,9.6,0,1,3,0
+Park Timna,8.4,Very good ,129,0,2376,Eilat,9.3,0,0,0,2
+Marom Romance,9.1,Superb ,26,0,6669,Kahal,9.6,0,1,0,0
+Paamonim Hotel Jerusalem,7.9,Good ,1025,3387,3387,"West Jerusalem, Jerusalem",9.3,0,0,0,2
+Americana Eilat Hotel,6.8,Review score ,1653,93,1772,Eilat,9.6,1,0,0,0
+נוריות בגלבוע 1,9.1,Superb ,77,0,3350,Nurit,9.6,0,1,3,2
+Isramax 3BR apartment near the sea.,8.8,Fabulous ,8,0,2190,Bat Yam,9.6,0,0,3,0
+Good Zimmer With Love,9.4,Superb ,31,0,5940,Sede Terumot,9.3,0,1,0,0
+Miriam Short Term Rental,9.5,Exceptional ,146,0,2730,Nazareth,9.4,1,0,3,2
+בית פרומן,9.4,Superb ,15,0,1890,Moledet,9.7,0,0,0,2
+Shamballa Ezuz Desert Hospitality,7.2,Good ,38,0,4557,‘Ezuz,9.6,0,1,0,0
+Olive BayWatch Hotel,7.3,Good ,281,861,2583,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,0
+Alexandra House,9.1,Superb ,98,1298,3028,Nazareth,9.7,0,0,3,1
+Eshel Suites,8.8,Fabulous ,279,0,5983,"West Jerusalem, Jerusalem",9.8,0,1,4,2
+Yagen boutique apartments,9.2,Superb ,60,0,1863,Haifa,9.6,0,0,3,0
+Al Bishara Guest House,9.4,Superb ,128,0,2439,Nazareth,9.9,1,0,3,1
+Bauhaus Living with Amazing Roof Top by Sea N' Rent,7.1,Good ,41,0,2098,"Florentin, Tel Aviv",9.6,0,1,3,0
+Prima Music Hotel,7.8,Good ,1108,0,2926,Eilat,9.6,0,1,0,1
+Apartment Orchidée 1BR Tel Aviv Kerem Hayarkon St TL64,9.4,Superb ,9,0,5772,"Tel Aviv City-Centre, Tel Aviv",9.7,0,0,4,1
+Mul Kinneret Livnim,7.9,Good ,35,0,4795,Livnim,9.6,0,1,0,1
+Nomad Hostel,9.4,Superb ,21,0,780,Nimrod,9.6,0,0,0,1
+Alonella,10.0,Exceptional ,7,0,18900,Kefar Weradim,9.6,1,1,4,0
+The Seven Seas Tel Aviv,8.0,Very good ,2,731,2923,"Yemenite Quarter, Tel Aviv",10.0,0,0,0,1
+Rav Kook Luxury Complex - 4BDR,9.0,Superb ,45,0,17400,"West Jerusalem, Jerusalem",9.8,0,1,4,2
+Sky Glamping boutique,9.5,Exceptional ,60,0,4888,Moshav Ramot,9.9,0,0,0,0
+Tslil Suite,9.3,Superb ,65,0,3080,Yeroẖam,9.6,0,0,0,0
+Beit Ram Sherf,9.4,Superb ,81,0,5914,Moshav Ramot,9.5,0,1,0,0
+SeaNet Hotel,7.3,Good ,950,0,3000,"Tel Aviv City-Centre, Tel Aviv",9.6,1,0,3,1
+Apartment on Haifa,8.1,Very good ,55,0,1980,Haifa,9.4,0,0,3,0
+Rothschild Galilee Hospitality,8.8,Fabulous ,71,0,2700,Hagoshrim,9.5,0,0,3,0
+King David Hotel Jerusalem,8.6,Fabulous ,564,0,14111,"West Jerusalem, Jerusalem",9.7,0,0,5,1
+צימר בירושלים- יחידת ארוח מול יער ירושלים,8.7,Fabulous ,10,0,1950,‘En Kerem,9.6,0,0,3,2
+Sergei Palace Hotel,8.4,Very good ,517,0,4115,"West Jerusalem, Jerusalem",9.6,0,0,4,0
+Dan Tel Aviv Hotel,8.1,Very good ,487,0,7581,"Tel Aviv City-Centre, Tel Aviv",9.4,0,0,5,1
+Keren's Sea View Apartment,7.5,Good ,12,0,4880,Ashdod,9.6,0,0,3,1
+"מגדל אלמוג חיפה - דירות ""בלו ביץ'"" על הים",8.8,Fabulous ,165,0,3650,Haifa,9.4,0,1,4,0
+Exodus Hostel & Dive Center,8.8,Fabulous ,518,0,880,Eilat,9.6,0,1,0,2
+צימר גבול החרמון,9.6,Exceptional ,15,0,4314,Majdal Shams,9.3,0,1,0,0
+In our backyard - Metula,9.0,Superb ,54,0,3000,Metulla,9.6,0,0,3,0
+OPEN SKY,8.1,Very good ,58,0,4320,Ein Kinya,9.6,0,1,0,0
+Jozefin,9.4,Superb ,64,0,3400,‘Akko,9.6,0,0,0,1
+"2 bedroom apartment in Atlit, Haifa district",8.5,Very good ,55,0,2370,Atlit,9.6,0,1,3,1
+Hotel B Berdichevsky,8.6,Fabulous ,658,0,4226,"Tel Aviv City-Centre, Tel Aviv",9.4,0,0,0,1
+studio by the sea,9.6,Exceptional ,11,0,3180,Ashdod,10.0,0,1,3,0
+Alma Boutique Hotel And Lounge,6.8,Review score ,165,0,4158,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,0
+Beautiful Countryside House,7.5,Good ,112,0,5225,Tiberias,9.6,0,1,3,0
+Jola Guest House,8.7,Fabulous ,16,0,4700,Majdal Shams,9.6,0,0,0,1
+Apartments on the Beach,7.7,Good ,67,0,2182,Haifa,9.5,0,0,3,0
+Nofesh Ba Alon 10,9.8,Exceptional ,38,0,3300,Rosh Pinna,9.5,0,1,0,1
+La Cappella Business Boutique Hotel,8.0,Very good ,408,0,4726,Haifa,9.6,0,0,0,1
+ZOZO Guesthouse,8.8,Fabulous ,10,775,1551,Nazareth,9.8,0,0,3,0
+Roger's Hostel Tel Aviv (age 18-45),7.9,Good ,203,0,615,"Neve Tzedek, Tel Aviv",9.6,0,1,0,2
+YasmeN suite,9.6,Exceptional ,33,0,3234,Mas'ade,9.3,0,0,3,2
+Dream House Haifa,8.4,Very good ,230,0,1742,Haifa,9.6,0,0,0,2
+The MUSIC suite - Neot Golf Caesarea,8.5,Very good ,22,0,4320,Caesarea,9.6,0,0,3,0
+Beach Place Apartments,9.5,Exceptional ,6,0,6200,Haifa,9.6,0,0,3,0
+Leonardo Boutique Hotel Tel Aviv,7.7,Good ,338,0,4659,Tel Aviv,9.6,1,0,0,1
+grin-motel,7.3,Good ,75,0,1200,Haifa,9.6,0,1,0,2
+Vert Hotel Eilat,8.5,Very good ,1084,0,3744,Eilat,9.6,1,0,0,0
+Red Sea Hotel,7.0,Good ,135,150,1350,Eilat,9.6,1,0,0,2
+Ahuzat Maya,9.6,Exceptional ,15,900,8100,Goren,9.3,0,1,0,0
+HaHavatselet Suite - Isrentals,5.6,Review score ,28,0,2516,"West Jerusalem, Jerusalem",9.6,0,1,3,0
+"Best Location! University, Soroka, Park, Pubs",8.0,Very good ,3,0,1410,Beer Sheva,10.0,0,0,3,2
+Midrahov Urban Suites,5.0,Review score ,1,248,2232,"West Jerusalem, Jerusalem",9.6,0,0,3,0
+Alon Bagalil,8.5,Very good ,82,0,3928,Kahal,9.6,0,0,0,1
+Modern 2 Bdr Spacious Apartment,7.9,Good ,21,0,5097,"Tel Aviv City-Centre, Tel Aviv",9.3,0,1,4,0
+Design 3 Bdr Apartment Sea View - Beach Side #TL5,10.0,Exceptional ,1,0,8520,"Tel Aviv City-Centre, Tel Aviv",10.0,0,1,4,0
+Louis GuestHouse,8.9,Fabulous ,101,0,2400,Nazareth,9.6,1,0,0,2
+West Tel Aviv- All Suites Hotel By The Sea,6.4,Review score ,399,0,3487,"Tel Aviv Promenade, Tel Aviv",9.6,1,0,0,2
+Sun City Hotel,7.0,Good ,333,2162,2163,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,1
+Almogim Suites Eilat,8.2,Very good ,1022,523,2092,Eilat,9.6,0,1,3,2
+קסם הכפר,9.3,Superb ,29,0,4100,Ein Kinya,9.6,0,1,0,2
+Almog Beach Apartments מגדלי חוף הכרמל חיפה,8.6,Fabulous ,94,0,2924,Haifa,9.4,0,1,3,0
+סוויטת בוטיק נטע,9.0,Superb ,15,0,4752,Neta‘im,9.3,0,1,0,1
+Go Tel Aviv,7.0,Good ,32,0,2304,"Tel Aviv City-Centre, Tel Aviv",9.4,0,1,3,0
+Loui Hotel Gardens,8.1,Very good ,85,0,2220,Haifa,9.6,0,1,0,2
+Western Wall Luxury House,8.2,Very good ,16,0,19000,"Jerusalem Old City, Jerusalem",9.5,0,1,3,0
+Luxury Beachfront Apts in Tel Aviv by Sea N' Rent,7.7,Good ,46,0,4414,"Tel Aviv City-Centre, Tel Aviv",9.4,0,1,3,0
+Brand New 3 Bedroom Apartment in Shalem Tower,8.5,Very good ,2,1259,11335,"West Jerusalem, Jerusalem",10.0,0,1,3,0
+Colony Suites- Hananya St.,8.9,Fabulous ,43,0,3237,"West Jerusalem, Jerusalem",9.7,0,0,3,0
+Caravan Hostel Tel Aviv By Roger Age 18-45,7.8,Good ,67,0,606,"Neve Tzedek, Tel Aviv",9.6,0,1,0,0
+Hotel Rehovot,8.1,Very good ,58,0,3540,Rechovot,9.6,0,0,3,0
+Pinsker 46,9.0,Superb ,6,0,7800,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,4,0
+Mayer House,8.8,Fabulous ,958,655,5898,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,1
+Rotem Suite in MARINA ASHKLON,8.4,Very good ,51,0,3680,Ashkelon,9.4,0,0,4,2
+Adorable 3 bedroom suite in peaceful location,10.0,Exceptional ,5,0,3840,Giv‘at Brenner,9.5,0,0,3,2
+Desert Home,9.2,Superb ,310,0,4510,Mitzpe Ramon,9.6,0,0,0,0
+Tel Aviving - Apartments by the beach,7.7,Good ,79,0,1772,"Tel Aviv City-Centre, Tel Aviv",9.3,0,0,4,0
+Liz suite,8.8,Fabulous ,76,0,5400,Caesarea,9.6,0,1,4,0
+Domus Bat Galim Hotel,8.9,Fabulous ,823,0,2471,Haifa,9.4,0,0,0,1
+Guest house Ashdod-beach,8.2,Very good ,23,0,2538,Ashdod,9.6,0,0,0,1
+Yehelim Boutique Hotel,9.6,Exceptional ,207,0,5200,Arad,9.4,1,0,4,0
+Country lodging in Manot,9.5,Exceptional ,53,0,2942,Manot,9.8,0,0,3,0
+אצל דוד בכפר,9.5,Exceptional ,17,0,4390,Kefar Gid‘on,9.7,0,1,0,1
+"Villa Brown Rothschild, a member of Brown Hotels",7.5,Good ,204,830,3783,"Tel Aviv City-Centre, Tel Aviv",9.4,0,0,0,1
+GuestHouse COMFY,8.9,Fabulous ,170,0,1614,Haifa,9.6,0,0,0,2
+Natural Reserve Apartment,9.4,Superb ,110,0,4200,Zikhron Ya‘aqov,9.6,0,0,0,2
+Paula's corner,9.2,Superb ,27,0,1944,Beʼer Ora,9.4,0,0,3,0
+"Haifa Almog Tower- ""Blue Reef"" Suite On The Sea",8.8,Fabulous ,75,0,3150,Haifa,9.5,0,1,3,0
+Oak Shade,8.5,Very good ,51,0,4500,Bet Leẖem HaGelilit,9.6,0,0,0,0
+SeaScape Terraces Netanya,9.4,Superb ,14,0,8100,Netanya,9.6,0,0,0,0
+Ha'Bait Ba'Kfar Guesthouse,7.3,Good ,28,0,3395,Bruchim Qela' Alon,9.6,0,0,3,0
+Molcho Neve Tzedek Apartments by Master,9.2,Superb ,191,0,4345,"Neve Tzedek, Tel Aviv",9.8,0,1,4,0
+Ben Azariah room's - flea market old Jaffa,6.1,Review score ,143,726,1476,"Jaffa, Tel Aviv",9.6,0,0,3,2
+סוויטות אושר בגולן,9.7,Exceptional ,44,0,4687,Had Nes,9.7,0,0,4,0
+Lily & Bloom Boutique Hotel,8.9,Fabulous ,814,0,3700,"Neve Tzedek, Tel Aviv",9.6,0,1,0,1
+Jerusalems Nest,8.2,Very good ,25,0,1800,"West Jerusalem, Jerusalem",9.6,0,0,3,2
+Garden on TOP of the WORLD צימר על גג העולם,9.4,Superb ,78,0,3150,Shlomi,9.6,0,1,4,2
+The Mansion In Had Ness,10.0,Exceptional ,3,0,5230,Had Nes,10.0,0,0,0,0
+Nuriel Fruit & Guest House,9.1,Superb ,175,0,3200,Sheʼar Yashuv,9.8,0,1,4,1
+Mr. Yavos - By TLV2GO,8.3,Very good ,36,0,5097,"Neve Tzedek, Tel Aviv",9.4,0,1,4,0
+צימר סבא רבא - Saba Raba B&B,10.0,Exceptional ,2,0,4860,Ein Kinya,10.0,0,0,3,0
+Beach Apartments,7.7,Good ,30,0,2000,Haifa,9.6,0,0,3,0
+Ahuzat Shaul Seaside,8.4,Very good ,194,0,3510,H̱adera,9.6,0,1,4,0
+Love & Lemons,8.5,Very good ,75,0,5726,Yesod Hamaala,9.6,0,0,0,0
+A Place Of The Heart,9.6,Exceptional ,15,0,5700,Liman,9.8,0,0,4,1
+Had Nes 229,9.3,Superb ,105,0,7990,Had Nes,9.5,1,1,4,0
+The Private House 2 רשת הבית הפרטי,8.8,Fabulous ,22,0,3600,Beer Sheva,9.6,0,1,3,1
+Beautiful studio on the beach,9.5,Exceptional ,66,0,3390,Haifa,9.8,0,0,4,2
+Emilia TLV,9.5,Exceptional ,241,1257,6140,"Tel Aviv City-Centre, Tel Aviv",9.8,0,0,4,0
+Rahel’s Home,7.8,Good ,14,394,1578,Beer Sheva,9.6,0,0,0,0
+Michal's Suites,9.0,Superb ,162,0,2400,Sha'al,9.6,0,0,0,2
+"Theodor Brown Tel-Aviv, a member of Brown Hotels",8.7,Fabulous ,187,956,4355,"Neve Tzedek, Tel Aviv",9.6,0,1,0,1
+Apartments Petah Tiqwa,7.7,Good ,25,0,2400,Petaẖ Tiqwa,9.6,0,0,3,0
+3BR Golf Residence Red Sea Eilat,9.3,Superb ,14,0,5520,Eilat,9.3,0,0,4,2
+Shafika house,9.4,Superb ,186,0,3618,‘Akko,9.8,0,0,4,2
+Suite Nof Caesar,8.9,Fabulous ,106,0,5985,Caesarea,9.3,0,0,4,0
+כחול ולבן,9.0,Superb ,1,0,3501,Ma‘yan Barukh,9.6,0,0,0,2
+Luxurious penthouse for couples in Kiryat Mozkin,10.0,Exceptional ,2,0,3900,Ẕur Shalom,10.0,0,0,0,1
+Cozy,9.1,Superb ,37,605,2419,Majdal Shams,9.6,0,0,3,1
+179 דירות נופש,9.4,Superb ,379,0,2220,Eilat,9.6,0,1,3,2
+YalaRent Hawaii Complex Boutique & Garden Apartments,9.1,Superb ,590,494,1485,Eilat,9.6,0,1,3,0
+בית מרום,8.3,Very good ,45,0,2646,Gan Shomeron,9.6,0,0,3,2
+Bell Boutique and Spa Hotel,6.6,Review score ,688,0,2464,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,0
+Dizengoff 208 Hotel Tel Aviv,8.3,Very good ,584,0,2999,"Tel Aviv City-Centre, Tel Aviv",9.4,0,0,0,1
+Milana's Deluxe with big patio and pool,9.4,Superb ,37,0,3280,Eilat,9.8,0,1,4,0
+The MAZ Jerusalem,7.5,Good ,47,0,2682,"West Jerusalem, Jerusalem",9.6,0,0,0,1
+Urbanica Carmel- Apartments,8.9,Fabulous ,224,0,2969,Haifa,9.6,0,0,4,2
+Europa Residence,8.3,Very good ,248,0,4188,Tiberias,9.6,0,0,4,1
+City Center Rooms,8.5,Very good ,156,549,1646,Nazareth,9.4,0,0,3,0
+Tantur Hills Hotel,8.3,Very good ,100,0,3562,Jerusalem,9.6,1,1,0,0
+Arabesque House,9.3,Superb ,50,0,4713,‘Akko,9.3,1,0,3,1
+Elegant 2BD Apartment in Jaffa Area,9.2,Superb ,4,0,3397,"Jaffa, Tel Aviv",10.0,0,0,4,0
+Astral Palma Hotel,7.9,Good ,685,0,7887,Eilat,9.6,1,0,0,1
+Cabin Resort,8.5,Very good ,174,0,3760,Moshav Ramot,9.6,1,0,3,0
+Niflaot Hagolan,7.6,Good ,30,0,5258,Had Nes,9.6,0,1,3,0
+Aladdin Hotel Beer Sheva,6.5,Review score ,62,0,1994,Beer Sheva,9.6,0,0,0,0
+YalaRent Palmore Resort apartments,9.1,Superb ,61,1824,5473,Eilat,9.5,0,0,4,0
+Trendy and cosy apartment / Balcony,9.0,Superb ,7,0,3146,"Florentin, Tel Aviv",9.6,0,0,4,2
+Frug St 28 - By Beach Apartments TLV,7.0,Good ,1,0,4050,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,4,0
+Connected Guest House,9.3,Superb ,68,0,4111,Amirim,9.6,0,1,3,2
+The White Chalet View,9.1,Superb ,23,0,8073,Moshav Ramot,9.7,0,1,4,0
+Rothschild Royal,9.8,Exceptional ,16,0,7200,Ashdod,9.5,0,0,0,2
+FaRoyal Luxury Suite,9.1,Superb ,105,0,6150,Eilat,9.6,0,1,4,1
+Naomi's place הבית של נעמי,9.2,Superb ,70,0,4956,Moshav Ramot,9.4,0,0,0,0
+Stay Eilat - Adults Only,8.7,Fabulous ,639,2077,2077,Eilat,9.6,0,0,0,1
+Beautiful 2 Bdr Apartment - Swimming pool #H1,8.4,Very good ,9,0,5496,Herzelia ,9.7,0,1,4,1
+Sea Line Hotel From R&A Group,3.7,Review score ,45,0,1428,Bat Yam,9.6,0,0,0,2
+villa Debora with heated pool,8.6,Fabulous ,38,0,7020,Eilat,9.6,0,0,4,0
+Yvonne's Hikers Base Sde Boker,7.5,Good ,2,0,2925,Midreshet Ben Gurion,9.6,0,0,3,0
+אירוח פינת חן,9.7,Exceptional ,4,0,3200,Ramot Naftali,10.0,0,0,0,0
+Little Prince Hostel,8.2,Very good ,1087,228,1292,Eilat,9.6,0,0,0,0
+Quiet & Chic 3BR in Mapu 15 by HolyGuest,9.5,Exceptional ,2,0,4428,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,3,0
+Leyad Hashmura Lodging,8.6,Fabulous ,76,0,4050,Yesod Hamaala,9.4,0,0,3,0
+City Suites,6.9,Review score ,512,0,1230,Eilat,9.6,0,1,3,1
+אירוח מכוורת פורת בערבה,9.5,Exceptional ,13,650,2530,‘En Yahav,9.6,0,0,4,2
+Allenby 36 Bauhaus Residence 5 Stars,8.6,Fabulous ,67,0,5040,"Tel Aviv City-Centre, Tel Aviv",9.4,0,0,4,2
+Bograshov Area - Cosy Apart' Hotel close to the beach,7.8,Good ,13,0,2419,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,3,2
+kinneret love sounds,8.2,Very good ,130,0,2539,Migdal,9.6,0,0,3,1
+the marigold suite,8.5,Very good ,2,0,1847,Usha,9.6,0,0,0,0
+Dizengoff Garden Hotel,8.7,Fabulous ,915,2157,3236,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,1
+Chic Apartments by the Beach,6.0,Review score ,442,0,4200,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,2,0
+El Sayed House b&b,9.3,Superb ,58,0,3705,‘Akko,9.6,0,0,3,2
+גן עדן ביקנעם המושבה,9.8,Exceptional ,5,0,3159,Yoqne‘am,9.5,0,0,3,2
+YalaRent Orchid Boutique Apartments,9.1,Superb ,97,839,2519,Eilat,9.6,0,1,3,0
+DeBlox living - Ben Avigdor Apartments,8.4,Very good ,257,0,2984,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,3,0
+A wonderful studio6 apt in the center of Jerusalem,7.6,Good ,8,0,1728,"West Jerusalem, Jerusalem",9.7,0,0,0,2
+Sweethome26 EILAT Apt with Jaccuzzi / Free Parking,9.2,Superb ,32,0,4812,Eilat,9.4,0,1,4,1
+Abratel Suites Hotel,8.6,Fabulous ,445,0,4057,"Tel Aviv City-Centre, Tel Aviv",9.7,1,1,0,1
+Khalil lane in the Village,9.5,Exceptional ,83,970,3070,Mi‘ilyā,9.7,0,0,3,1
+Amazing 3Bedrooms 2 Baths Balcony and Parking PRV,7.6,Good ,32,0,5810,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,3,2
+Begin19 Apartments & Hostel,7.7,Good ,232,0,1568,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,2
+LUXURY PENTHOUSE GREAT LOCATION WITH PARKING,9.6,Exceptional ,13,950,3802,Ramat Gan,9.8,0,0,4,2
+L.T.D- Atlantis luxury apartments in private Beach,10.0,Exceptional ,1,0,6418,Tiberias,10.0,0,0,4,1
+Donkeys & Sunshine,9.2,Superb ,10,0,2400,Ẕafririm,9.6,0,0,0,2
+Tiberias 1,8.2,Very good ,65,0,2534,Tiberias,9.6,0,0,4,2
+Prince Palace Hadera White Beach,10.0,Exceptional ,3,1905,5715,H̱adera,10.0,0,0,4,0
+Superior Motel,6.1,Review score ,74,0,1500,Haifa,9.6,0,1,0,2
+HaBaitBe Matityahu By Domus,8.7,Fabulous ,136,0,5099,Beer Sheva,9.6,0,0,3,1
+Old Jaffa's Penthouse Boutique Hostel,7.9,Good ,89,0,2250,"Jaffa, Tel Aviv",9.6,0,0,0,2
+Guest House Orlihome,8.1,Very good ,35,0,2014,Haifa,9.6,0,1,3,0
+Laila's studio,8.2,Very good ,48,0,1200,Haifa,9.6,0,0,3,2
+7th Floor,9.6,Exceptional ,71,0,5630,‘Akko,9.5,0,1,4,2
+Family Pearl Eilat,9.4,Superb ,24,0,3825,Eilat,9.6,0,0,4,0
+The Levee,9.8,Exceptional ,18,0,19320,"Neve Tzedek, Tel Aviv",9.7,1,1,0,0
+Central Laguardia Hotel,6.4,Review score ,246,576,1731,Tel Aviv,9.6,0,0,0,0
+Zemer Lodging,9.3,Superb ,58,0,5340,Sede Eli‘ezer,9.4,0,1,0,0
+וילה פרטית בכפר ורדים,8.9,Fabulous ,31,0,4800,Kefar Weradim,9.4,0,0,0,2
+Sweet Dreams Apartment,8.8,Fabulous ,177,0,1920,Tiberias,9.3,0,0,3,0
+The Templer Apartment,9.7,Exceptional ,6,0,3150,"West Jerusalem, Jerusalem",10.0,0,0,3,1
+Hostel BU93,4.9,Review score ,620,0,509,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,2
+הצימר של איקוש,9.5,Exceptional ,18,1053,2106,Tsiv'on,9.4,0,0,0,2
+הבית של יעל,8.8,Fabulous ,18,0,3420,Paran,9.6,0,0,0,2
+Port Inn,8.3,Very good ,142,0,600,Haifa,9.3,0,0,0,1
+Sanabl Bed & Breakfast,8.4,Very good ,67,218,4143,Ein Kinya,9.6,0,1,3,2
+Flintstone Guest House-heated swimming pool,8.6,Fabulous ,803,336,1343,Eilat,9.6,0,0,3,1
+אחוזת רפאל,9.2,Superb ,8,0,8640,Eilat,9.4,0,0,0,0
+Ashdot Yaacov Ichud Kibbutz Country Lodging,8.5,Very good ,98,342,3077,Ashdot Ya‘aqov,9.6,1,0,0,0
+Amdar Holiday Apartments with private pools,7.7,Good ,6,0,3570,Eilat,10.0,0,0,3,0
+3 Bedroom with parking terrace and close beach,9.0,Superb ,3,0,5800,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,4,0
+Golden Suite,9.5,Exceptional ,2,0,4590,Majdal Shams,9.6,0,0,3,0
+Suite- Studio- Zimmer,7.4,Good ,54,0,3094,Bet Sheʼan,9.6,0,1,3,2
+Riverside,9.0,Superb ,2,0,4590,Mas'ade,10.0,0,0,3,2
+Amiad Joseph Well Country Inn,7.4,Good ,13,0,3783,Ammiad,9.6,1,0,0,0
+Al Yakhour Hostel,8.3,Very good ,158,0,690,Haifa,9.6,1,0,0,1
+Amazing Suite on the sea-סוויטה מדהימה על הים,8.3,Very good ,13,450,1350,Bat Yam,9.4,0,0,0,0
+Penthouse La-Palmore with Jucuzzi Luxury Apart-Residense Resort First line Seaside,8.8,Fabulous ,4,6750,8250,Eilat,9.4,0,0,0,0
+LuKa 15 - By Beach Apartments TLV,6.8,Review score ,63,0,2120,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,3,0
+צימרים בצפון - עץ נוי,9.5,Exceptional ,45,0,4639,Sheʼar Yashuv,9.8,0,0,3,0
+Cosy Modern Guest Suite by Midrachov Ha Moshava,10.0,Exceptional ,1,0,2333,Zikhron Ya‘aqov,10.0,0,0,4,0
+Guest House Antique,7.6,Good ,100,0,1200,Nazareth,9.6,0,0,0,2
+Step To Hermon Big appartment,9.0,Superb ,1,0,4533,Majdal Shams,10.0,0,0,0,0
+Bograshov Suites - SEA U TLV,5.3,Review score ,7,0,1698,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,2
+6 Tankhum - By Beach Apartments TLV,7.5,Good ,8,0,3300,"Jaffa, Tel Aviv",9.6,0,0,3,0
+פינה בגליל,10.0,Exceptional ,2,0,5040,Maẕẕuva,10.0,0,0,3,2
+8 Hotel Apartment Short Time TLV BAT YAM,9.1,Superb ,9,0,4530,Bat Yam,9.4,0,1,5,0
+קולינה וארדה,10.0,Exceptional ,1,0,5642,‘Amqa,9.6,0,0,4,0
+נוף לכזיב Nof Lakziv,9.4,Superb ,15,0,2822,Ma'alot Tarshiha,9.6,0,0,3,0
+Bab al-sham funduk,9.4,Superb ,114,0,3510,‘Akko,9.6,1,0,4,1
+Acre New 3 bedrooms beachfront apartment,9.4,Superb ,10,0,6120,‘Akko,9.5,0,1,0,2
+Elmina Hotel Jaffa,8.9,Fabulous ,287,1287,3858,"Jaffa, Tel Aviv",9.6,0,0,0,0
+Rom HaTayelet,8.7,Fabulous ,23,0,2600,Arad,9.6,0,1,0,1
+Sea of Galilee Wonders,8.0,Very good ,22,0,3232,Kallanit,9.6,0,0,0,0
+הקצה- The Edge,9.0,Superb ,32,0,6400,Sifsufa,9.6,0,0,0,0
+Yalarent Villa Bazelet with Private heated Pool in Tiberias,9.1,Superb ,7,3027,9083,Tiberias,9.3,0,1,4,0
+וילה תהילה המחודש - The new Villa Tehila,8.7,Fabulous ,3,0,3920,Rosh Pinna,10.0,0,0,3,1
+בין יער לים,9.6,Exceptional ,83,0,3600,Shlomi,9.4,0,0,3,2
+Black and white,9.2,Superb ,5,0,8019,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,0,0
+Spacious Beach Side 2BR in Mapu 11 by HolyGuest,8.7,Fabulous ,4,0,4303,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,0,0
+Etty's House,8.7,Fabulous ,77,0,3300,Petaẖ Tiqwa,9.6,0,0,0,0
+Modern 1 Bdr Apartment Rothschild #TL7,8.8,Fabulous ,4,0,4356,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,4,1
+Mikes Khan,9.0,Superb ,77,0,3920,Abū Ghaush,9.6,1,0,0,1
+The Lake House,8.0,Very good ,106,0,2539,Migdal,9.6,0,0,3,0
+Orr Halevana,8.7,Fabulous ,121,0,4800,Bruchim Qela' Alon,9.6,0,0,3,0
+Olive Heleni Hotel,7.6,Good ,831,1445,4335,"West Jerusalem, Jerusalem",9.3,0,0,3,1
+Hotel House,6.1,Review score ,107,0,3076,Rishon LeẔiyyon,9.6,0,0,0,1
+The Fifties suites,9.2,Superb ,37,2120,6360,Kefar Weradim,9.4,0,1,0,0
+Sema Zimmer,9.0,Superb ,2,0,3150,Majdal Shams,9.6,0,0,0,2
+Golden Walls Hotel,8.5,Very good ,57,0,8577,"East Jerusalem, Jerusalem",9.5,1,1,0,0
+Sea House,9.2,Superb ,32,0,3600,Eilat,9.6,0,0,4,0
+The Artist's House Overlooking the Bay of Haifa,9.7,Exceptional ,16,0,2400,Haifa,9.6,0,0,3,2
+Tal Kinneret,7.8,Good ,8,0,4455,Kinneret,9.6,0,1,3,1
+Herzlia sea view,9.0,Superb ,4,0,6540,Herzelia ,10.0,0,0,0,2
+אלף נוף ונוף,10.0,Exceptional ,2,0,3925,‘Ein el Asad,10.0,1,0,0,1
+Trendy apartment next to Levinsky market,7.0,Good ,1,0,3146,"Florentin, Tel Aviv",9.6,0,0,4,2
+The Blend,8.8,Fabulous ,21,0,4483,Nazareth,9.5,1,0,0,1
+ISRALUX APARTMENTS,10.0,Exceptional ,2,0,3357,Bat Yam,10.0,0,0,0,2
+Relax & Sunny near Beach by FeelHome,10.0,Exceptional ,1,1180,4435,"Tel Aviv City-Centre, Tel Aviv",10.0,0,1,4,1
+פלגי מים צימרים נחל אל על,9.0,Superb ,1,0,3268,Avnei Eitan,9.6,0,0,0,0
+Magic Lily by HolyGuest,7.5,Good ,2,0,3996,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,4,0
+Hameiri Estate,9.9,Exceptional ,116,0,7560,Rosh Pinna,10.0,1,0,4,1
+ADVA Boutique,7.1,Good ,10,0,3081,Bet Yannay,9.6,0,1,0,1
+Amazing Jaffa by TLV2RENT,8.3,Very good ,15,0,3636,"Jaffa, Tel Aviv",9.3,0,0,4,0
+Beachfront Property with Balcony and Pool Access,7.5,Good ,8,0,6090,"Tel Aviv City-Centre, Tel Aviv",9.4,0,1,3,0
+Cabin Eretz Ha-Kineret,8.8,Fabulous ,26,0,5346,Had Nes,9.3,0,0,0,1
+מגדל חי,9.2,Superb ,123,0,2100,Eilat,9.6,0,1,3,1
+Ahla Plus,8.7,Fabulous ,512,0,780,Eilat,9.6,0,0,0,0
+"Modern renovated 1 bedroom apartment, Central TLV M2",9.3,Superb ,3,0,2386,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,4,1
+בקתה פרטית מקסימה בלב המושבה,9.8,Exceptional ,6,0,4500,Gedera,10.0,0,0,0,2
+Villa Bat Galil,8.7,Fabulous ,26,0,19998,Yesod Hamaala,9.6,0,1,4,0
+Old City Inn,8.9,Fabulous ,68,0,4560,Safed,9.5,0,0,0,2
+Last Minute Herzliya,9.4,Superb ,17,0,3900,Herzelia ,10.0,0,0,4,0
+Lovely home above the Kinneret,9.2,Superb ,4,0,6750,Karkom,9.4,0,0,3,0
+Lake Resort,7.9,Good ,86,0,2550,Tiberias,9.6,0,0,3,0
+YAM Achziv,9.3,Superb ,14,0,4446,Nahariyya,9.8,0,0,4,0
+שקט על הנוף - כולל מתחם בריכה מחוממת,10.0,Exceptional ,3,0,4300,Bet Shemesh,10.0,0,0,0,1
+Villa On The Hill,8.8,Fabulous ,25,0,10596,Giv'at Avni,9.6,0,0,3,0
+וילה מגנוליה,8.5,Very good ,2,0,6240,Manot,10.0,0,0,4,0
+turtle guesthouse- tiberias,9.1,Superb ,22,0,1501,Tiberias,9.6,0,0,0,0
+נועם - מתחם נופש פסטורלי עם ג'קוזי ובריכה,7.9,Good ,9,1200,4000,Safed,9.6,0,0,3,0
+צימר וילי - willy house,5.0,Review score ,1,0,3120,Mas'ade,9.6,0,0,0,1
+peacefull Galille house,10.0,Exceptional ,2,0,3780,Ma'alot Tarshiha,10.0,0,0,0,0
+אלון בגליל,8.2,Very good ,12,0,2538,Yuval,9.6,0,0,3,0
+Passion Fruit Apartment,8.0,Very good ,27,0,2500,Ashkelon,9.6,0,0,3,2
+HaOfek 10 - A spacious unit near a magical lake,9.7,Exceptional ,24,0,3510,Yeroẖam,9.5,0,0,3,1
+Orhan Havaya,8.9,Fabulous ,63,0,5460,Sheʼar Yashuv,9.6,0,0,3,1
+נופי ארבל,8.5,Very good ,2,0,2700,Livnim,10.0,0,0,0,2
+Great apartments in quiet place,8.7,Fabulous ,13,0,2280,Haifa,9.6,0,0,3,2
+Berger's Apartment,9.4,Superb ,70,888,3552,Eilat,9.6,0,0,3,2
+Lakeside Terrace,8.6,Fabulous ,103,0,3050,Neot Golan,9.6,0,0,3,1
+Vacation Apartment Eilat,9.3,Superb ,70,0,2394,Eilat,9.3,0,0,3,1
+להנות מהטבע,9.4,Superb ,39,0,5400,Majdal Shams,9.4,0,0,0,2
+צימר סאפי,8.7,Fabulous ,24,756,3024,Nimrod,9.7,0,0,0,0
+Villa-SELAVI 3 unit complex with infinity pool,9.0,Superb ,1,0,10796,Tiberias,10.0,0,0,4,0
+צימר עדיה,8.1,Very good ,8,0,2520,Kefar H̱ananya,9.6,0,0,0,0
+Shangri-Hila Lodge,7.7,Good ,28,380,3420,Mitzpe Hila,9.6,0,0,0,1
+Royal Park Eilat apartments,8.4,Very good ,135,0,7200,Eilat,9.6,0,0,3,1
+Pundak guesthouse,7.6,Good ,181,0,2900,Moshav Ramot,9.6,0,0,0,0
+נוף המצוק,9.1,Superb ,45,0,4370,Poriyya Illit,9.5,0,1,3,0
+Holiday Apartment Alona,9.6,Exceptional ,21,0,2706,Eilat,9.5,0,0,3,0
+Israeli Home,9.5,Exceptional ,67,0,3840,Rechovot,9.6,0,0,3,1
+Tel-Aviv LALA Boutique Hotel,9.2,Superb ,410,0,3924,Tel Aviv,9.6,0,1,3,0
+The Lion Hotel,6.3,Review score ,74,525,1575,Haifa,9.6,0,0,0,1
+יולי גולף,10.0,Exceptional ,1,0,2369,Caesarea,10.0,0,0,3,0
+דירת נופש אלמוג מפואר ביותר מרחק נגיעה מהים!!!,9.3,Superb ,67,0,2220,Eilat,9.3,0,0,3,2
+Mishkafayim Simcha Suite,10.0,Exceptional ,2,406,1624,Zanoaẖ,9.6,0,0,3,0
+See&Sun,9.0,Superb ,44,0,4725,Ashdod,9.6,0,0,4,2
+וילה ירדן Villa Jordan,9.0,Superb ,2,0,15894,Qiryat Shemona,9.6,0,0,0,0
+Design Apartments,6.9,Review score ,64,0,2449,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,3,0
+Isramax Jerusalem Apartment in Bat-Yam,7.8,Good ,6,0,1728,Bat Yam,9.6,0,0,3,0
+פסגת הדרור,9.0,Superb ,1,0,3240,Shlomi,9.6,0,0,0,0
+Saar Suites,8.7,Fabulous ,9,0,4320,Mas'ade,9.6,0,0,4,0
+Ultra Tel Aviv Boutique Hotel,8.7,Fabulous ,609,995,2984,"Tel Aviv City-Centre, Tel Aviv",9.4,0,1,0,1
+Dotan's Boutique Guesthouse - By The Beach!,9.1,Superb ,138,0,1490,"Tel Aviv Port Area, Tel Aviv",9.7,0,0,0,0
+Pink & Blondie - an Autonomous ApartHotel by Loginn,6.8,Review score ,473,0,1632,"Jaffa, Tel Aviv",9.6,0,0,0,1
+הבית של בטי,9.4,Superb ,13,0,3840,Shlomi,10.0,0,0,3,2
+פינת ביאן נוף לאגם,8.7,Fabulous ,16,0,5280,Majdal Shams,9.5,0,0,3,2
+"Neot Golf, Ziv's Place",9.6,Exceptional ,82,0,7923,Caesarea,9.6,0,0,4,0
+Galit's Zimmer,9.8,Exceptional ,5,0,3700,Sha‘alvim,10.0,0,0,0,0
+Luxury garden floor Eilat,8.7,Fabulous ,22,0,8400,Eilat,9.6,0,0,4,0
+Roni Suite,9.6,Exceptional ,30,0,2400,Eilat,9.7,0,0,3,1
+Hilltop Haven,8.0,Very good ,52,0,2700,Poriyya Illit,9.6,0,1,3,2
+צימראוון בחוות זית המדבר,8.9,Fabulous ,22,0,4923,Sede Boqer,9.4,0,0,0,0
+צימר בוטיק הרימון במעלה גמלא,10.0,Exceptional ,1,0,17280,Ma'ale Gamla,10.0,0,0,4,0
+דירת זוּגַג מפנקת עם מרפסת משגעת ונוף למפרץ.,8.9,Fabulous ,29,0,1920,Eilat,9.6,0,0,3,2
+Nof LaGilboa,9.1,Superb ,98,0,4225,Bet HaShitta,9.6,0,0,0,0
+Gordon SUITES - Sea U TLV,6.9,Review score ,19,0,1698,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,3,2
+liz's place,8.7,Fabulous ,29,0,1724,Eilat,9.6,0,0,3,0
+Caesar Premier Eilat Hotel,8.1,Very good ,604,0,3600,Eilat,9.6,0,1,0,1
+Touch of Rose,8.9,Fabulous ,36,0,4800,Shlomi,9.6,0,0,0,2
+Hilltop luxury suites,9.9,Exceptional ,8,0,6000,Majdal Shams,9.4,0,0,0,0
+בקעת החלומות,9.5,Exceptional ,10,0,3420,Shadmot Mehola,9.6,0,0,0,2
+מוריה גולד - MORIA GOLD,10.0,Exceptional ,2,619,5574,Manot,10.0,1,0,0,0
+Elis Boutique Hotel,4.9,Review score ,137,0,3440,Bat Yam,9.6,0,0,0,1
+Queen's apartment,9.1,Superb ,18,0,3000,Majdal Shams,9.4,0,0,3,0
+Me & U My Zimmer In The Kinneret,9.1,Superb ,41,0,4500,Tel Kazir,9.6,0,1,3,0
+Nirvana Maayan Baruh,10.0,Exceptional ,1,0,3600,Ma‘yan Barukh,10.0,0,0,4,2
+Lovely 1-bedroom apartment in The best location,8.7,Fabulous ,7,953,3810,Tel Aviv,9.6,0,0,0,2
+Agripas #2,10.0,Exceptional ,1,216,1939,"West Jerusalem, Jerusalem",10.0,0,0,0,2
+Avissar house,7.5,Good ,32,0,3660,"Mishkenot Sha'ananim, Jerusalem",9.6,0,0,3,1
+בלומינג-Bluming,9.0,Superb ,37,0,6600,Kefar Blum,9.3,0,0,3,0
+O&O Group - Stunning Chic 2 BR Ibn Gvirol St,8.3,Very good ,6,0,4066,"The Old North, Tel Aviv",9.6,0,0,4,2
+modern apt with 2 bedrooms in central jaffa,10.0,Exceptional ,1,0,3888,"Jaffa, Tel Aviv",10.0,0,0,4,0
+Paradise,1.0,Review score ,2,0,1890,Bat Yam,9.6,0,0,3,2
+הבית בשדה הדובדבן cherry house,10.0,Exceptional ,4,0,3300,Majdal Shams,9.4,0,0,3,2
+Hotel Apartment Colony Beach Tel Aviv Bat Yam 9,7.8,Good ,6,0,2970,Bat Yam,9.6,0,0,3,0
+Rosh pina Halel's corner,9.1,Superb ,88,0,3240,Rosh Pinna,9.6,0,0,0,2
+Ga'aton Motel,7.3,Good ,130,0,2052,Nahariyya,9.6,0,0,0,2
+Underground,10.0,Exceptional ,2,0,1836,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,0,0
+Hotel Alma - near the sea,7.4,Good ,322,0,2009,Netanya,9.6,1,1,0,1
+Barud Gedera Israel,9.8,Exceptional ,43,0,3300,Gedera,9.6,0,0,0,0
+Etis garden seafront,9.4,Superb ,25,0,6293,Haifa,9.4,0,1,3,0
+achzivacation Family Vacation Apt - 5mins to The Beach,9.2,Superb ,41,0,3538,Gesher HaZiw,9.5,0,0,3,2
+Tel Aviv Ocean View,10.0,Exceptional ,1,0,6880,Bat Yam,10.0,0,0,4,1
+'The Rose' Business Travelers,8.1,Very good ,10,0,2460,Yehud,9.5,0,1,3,2
+Sweet Apartment With Balcony In Luxury Complex,8.2,Very good ,84,0,7500,Eilat,9.3,0,1,4,0
+Atelier Luxury Rooms,8.2,Very good ,135,0,3588,Haifa,9.4,1,0,3,1
+HaKaron,9.2,Superb ,8,0,3200,Ein HaBesor,9.6,0,0,0,2
+Tzimmer Peace,9.0,Superb ,1,0,2965,Safed,10.0,0,0,0,0
+Quiet garden apartment in Rehavia,8.7,Fabulous ,3,492,4428,"West Jerusalem, Jerusalem",10.0,0,0,3,1
+SERENITY,9.6,Exceptional ,10,0,2400,Beʼer Ora,9.6,0,0,3,2
+מעבר לאופק,9.7,Exceptional ,10,0,3500,Yeroẖam,9.6,0,0,0,2
+אדמה ברמה,8.5,Very good ,2,0,2970,Avnei Eitan,9.6,0,0,3,0
+מגדלי המלכים נופש על שפת הכינרת,6.8,Review score ,14,0,1890,Tiberias,9.6,0,0,3,1
+THE Y HOUSE,10.0,Exceptional ,1,0,19651,Geʼullim,10.0,0,0,4,0
+Salah Aldin House,8.9,Fabulous ,31,0,3050,‘Akko,9.6,0,0,4,2
+Carmel Market Designed Apartment with Balcony,10.0,Exceptional ,2,0,4979,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,4,0
+Villa with heated pool and Jacuzzi Sea View 300m Front of the Beach,8.9,Fabulous ,30,0,10926,Eilat,9.4,0,1,4,0
+A Little House In Rechavia,7.4,Good ,308,0,3277,"West Jerusalem, Jerusalem",9.6,1,1,0,1
+Mr. Brooklyn - By TLV2GO,8.5,Very good ,52,0,7480,"The Old North, Tel Aviv",9.7,0,1,4,0
+Classic Inn,7.3,Good ,1029,0,1430,Eilat,9.6,0,1,3,1
+kibbutz hatzor A room close to Ashdod,8.9,Fabulous ,102,0,3300,H̱aẕor Ashdod,9.6,0,1,0,2
+Tal By The Beach - An Atlas Boutique Hotel,8.7,Fabulous ,596,0,4990,"Tel Aviv Port Area, Tel Aviv",9.3,0,1,0,1
+ColorBox - an Autonomous Hotel by Loginn,7.5,Good ,341,416,2357,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,1
+Jojo TLV,8.6,Fabulous ,243,0,3549,"Jaffa, Tel Aviv",9.6,0,1,0,1
+Shamai Suites Jerusalem,7.5,Good ,458,0,3120,"West Jerusalem, Jerusalem",9.6,0,1,3,1
+Sea View apartments on Mezizim beach by HOMY,8.4,Very good ,26,0,8040,"Tel Aviv City-Centre, Tel Aviv",9.3,0,1,4,2
+Al Mutran Guest House,7.9,Good ,258,683,3416,Nazareth,9.6,0,1,3,2
+City Port Hotel,8.8,Fabulous ,266,0,4416,Haifa,9.6,0,1,0,1
+צימר משפחתי וזוגי מפנק בגלבוע,9.0,Superb ,1,0,3744,Nurit,9.6,0,0,0,0
+Dead Sea Yehuda Apartments,8.9,Fabulous ,47,0,2400,Arad,9.6,0,1,3,0
+Lake Mansion Boutique Apartments,9.1,Superb ,108,0,3385,Tiberias,9.3,0,0,3,0
+פנינה שקטה באמצע העיר,10.0,Exceptional ,2,0,3815,"Florentin, Tel Aviv",10.0,0,0,0,2
+נוגה בגולן,9.9,Exceptional ,10,0,2637,Qasrîne,9.5,0,0,0,2
+Amdar Hostel,6.5,Review score ,488,0,954,Eilat,9.6,0,0,0,1
+"Apartment with jacuzzi & pool table, Haifa center close to Bahai Garden",9.0,Superb ,4,0,4560,Haifa,10.0,0,0,3,2
+HermeSpa Hotel,7.9,Good ,546,1058,3174,"Tel Aviv City-Centre, Tel Aviv",9.6,0,1,0,0
+Asher's Apartments,7.7,Good ,102,0,1296,Eilat,9.6,0,0,3,1
+Pepo Hostel Tel Aviv,5.0,Review score ,472,0,846,"Tel Aviv City-Centre, Tel Aviv",9.6,0,0,0,2
+Lifta Boutique Hotel & Spa,9.2,Superb ,29,0,12000,"West Jerusalem, Jerusalem",9.4,1,0,0,0
+Fire&stone house,9.3,Superb ,2,0,7776,Majdal Shams,10.0,0,0,0,0
+עין המעיינות דירת נופש חלומית,9.8,Exceptional ,19,0,3672,Sede Terumot,9.6,0,0,3,0
+Quiet Haven,10.0,Exceptional ,1,0,3990,‘Akko,10.0,0,0,0,1
+Small and Cozy,8.3,Very good ,19,0,2430,Majdal Shams,9.6,0,0,0,0
+Eilat stone - Patio אבן אילת - פטיו,9.4,Superb ,34,0,1215,Eilat,9.6,0,0,3,2
+21st Floor Hotel,8.5,Very good ,161,0,6792,"West Jerusalem, Jerusalem",9.5,0,1,0,1
+Asfour Hotel,8.7,Fabulous ,88,0,3000,Haifa,9.4,0,0,3,1
+Your home in CENTER Of TLV,9.0,Superb ,1,0,4860,"Tel Aviv City-Centre, Tel Aviv",10.0,0,0,0,2
+וילה נוף הרים שלומי,10.0,Exceptional ,1,1080,9720,Shlomi,10.0,0,0,3,2
+Michelle Suite סוויטת מישל,8.7,Fabulous ,9,2000,8000,Amirim,9.7,0,1,4,0
+Mikasa,9.2,Superb ,35,0,6084,Sha'al,9.3,0,1,3,0
+צימר נעים ושקט בלב הצפון,5.3,Review score ,3,0,2400,Qiryat Shemona,9.6,0,0,0,2
+Holiday Apartments Eilat,9.4,Superb ,46,0,7194,Eilat,9.4,0,1,4,0
+Studio avraham,8.3,Very good ,26,0,3000,Karmiel,9.6,0,1,3,0
+בית אום ג'מאל - משפחת דגש,9.4,Superb ,22,0,6318,‘Eilabūn,9.6,1,0,0,0
+Armon Hayarkon Hotel,7.8,Good ,667,0,2991,"Tel Aviv Port Area, Tel Aviv",9.6,0,1,0,1
+צימר בקצה המושבה,9.0,Superb ,94,0,3072,Metulla,9.3,0,1,3,1
+Boutique suites in the old city,8.2,Very good ,6,0,4320,Beer Sheva,9.6,0,0,3,2
